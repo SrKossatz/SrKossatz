@@ -1,8 +1,9 @@
 Olá! Eu sou Átylla Kossatz.
 
 
-- Desenvolvo projetos com JavaScript, HTML e CSS.
-- Tenho interesse em React e NodeJs.
+- Desenvolvo projetos cem Java, JavaScript, HTML e CSS.
+- Tenho interesse em aprender novas tecnologias.
+- Keep Learning...
 
 <div align="center">
   <a href="https://github.com/srkossatz">
