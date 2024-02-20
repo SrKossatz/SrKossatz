@@ -1,7 +1,7 @@
 Olá! Eu sou Átylla Kossatz.
 
 
-- Desenvolvo projetos cem Java, JavaScript, HTML e CSS.
+- Desenvolvo projetos em Java, JavaScript, HTML e CSS.
 - Tenho interesse em aprender novas tecnologias.
 - Keep Learning...
 
