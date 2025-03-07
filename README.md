@@ -1,20 +1,39 @@
-Olá! Eu sou Átylla Kossatz.
+<!-- Banner no topo -->
+<img src="https://your-banner-link.com" alt="Banner" width="100%"/>
+
+<h1 align="center">Olá! Eu sou Atylla Kossatz 👋</h1>
+
+<p align="center">
+💻 Desenvolvedor Web focado em Backend com Python e Django <br>
+📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades. <br>
+🚀 Criando projetos inovadores para resolver problemas reais. 
+</p>
+
+---
+
+### 🔥 **Linguagens e Tecnologias**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,typescript,php,postgresql,git,linux,docker" alt="Tecnologias" />
+</p>
+
+---
+
+### 📊 **Estatísticas do GitHub**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SrKossatz&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrKossatz&theme=radical"/>
+</p>
+
+---
+
+### 🚀 **Projetos Recentes
+📌 [**Portfolio Django**](https://portfolio-u63n.onrender.com)  
+📌 [**Projeto personal Finance**](https://github.com/SrKossatz/personal-finance-manager)
+
+---
+
+### 📫 **Entre em Contato**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atyllakossatz/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:atyllakossatz@gmail.com)
 
 
-- Desenvolvo projetos em Java, JavaScript, HTML e CSS.
-- Tenho interesse em aprender novas tecnologias.
-- Keep Learning...
-
-<div align="center">
-  <a href="https://github.com/srkossatz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srkossatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srkossatz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
