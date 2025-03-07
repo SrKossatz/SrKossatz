@@ -9,19 +9,24 @@ jobs:
   build:
     name: Snake Animation
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
-
-      - name: Gerar a cobrinha 🐍
-        uses: Platane/snk@v3  # Atualizando para a versão mais recente
+        
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v3
         with:
-          github_user_name: SrKossatz  # Troque pelo seu usuário do GitHub
-          outputs: dist/github-contribution-grid-snake.svg
-
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Commit e push da animação
         uses: EndBug/add-and-commit@v9
         with:
           message: "Atualizando a cobrinha 🐍"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "dist/github-contribution-grid-snake*.svg"
+          push: true
