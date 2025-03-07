@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
 
-  workflow_dispatch:  # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: SrKossatz  # Troque pelo seu usuário do GitHub
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Commit e push
         uses: EndBug/add-and-commit@v9
