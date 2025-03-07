@@ -25,10 +25,8 @@
 
 ---
 ### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SrKossatz/SrKossatz/main/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://github.com/SrKossatz/SrKossatz/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SrKossatz/SrKossatz/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 ### 🚀 **Projetos Recentes
