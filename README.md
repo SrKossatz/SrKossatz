@@ -10,7 +10,7 @@
 
 ### 🔥 **Linguagens e Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,typescript,php,postgresql,git,linux,docker" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,django,typescript,php,postgresql,mysql,git,linux,docker,tailwind,html,css" alt="Tecnologias" />
 </p>
 
 ---
