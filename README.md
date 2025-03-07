@@ -1,6 +1,3 @@
-<!-- Banner no topo -->
-<img src="https://your-banner-link.com" alt="Banner" width="100%"/>
-
 <h1 align="center">Olá! Eu sou Atylla Kossatz 👋</h1>
 
 <p align="center">
