@@ -28,6 +28,13 @@
 ![Snake animation](https://github.com/SrKossatz/SrKossatz/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrKossatz/SrKossatz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrKossatz/SrKossatz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SrKossatz/SrKossatz/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ### 🚀 **Projetos Recentes
 📌 [**Portfolio Django**](https://portfolio-u63n.onrender.com)  
 📌 [**Projeto personal Finance**](https://github.com/SrKossatz/personal-finance-manager)
