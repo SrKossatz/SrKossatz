@@ -10,7 +10,7 @@
 
 ### 🔥 **Linguagens e Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,typescript,php,postgresql,mysql,git,linux,docker,tailwind,html,css" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,typescript,php,postgresql,mysql,git,linux,docker,tailwind,html,css" alt="Tecnologias" />
 </p>
 
 ---
@@ -23,11 +23,14 @@
 
 ---
 
+<!--
 ---
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/SrKossatz/SrKossatz/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
+-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrKossatz/SrKossatz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrKossatz/SrKossatz/output/pacman-contribution-graph.svg">
