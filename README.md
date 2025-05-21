@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Atylla Kossatz 👋</h1>
 
 <p align="center">
-💻 Desenvolvedor Web focado em Backend com Python e Django <br>
+💻 Desenvolvedor Web focado em Backend <br>
 📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades. <br>
 🚀 Criando projetos inovadores para resolver problemas reais. 
 </p>
@@ -10,7 +10,7 @@
 
 ### 🔥 **Linguagens e Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,typescript,php,postgresql,mysql,git,linux,docker,tailwind,html,css" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,golang,django,python,php,mysql,git,linux,docker,tailwind,html,css" alt="Tecnologias" />
 </p>
 
 ---
