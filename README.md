@@ -40,7 +40,12 @@
 
 ### 🚀 **Projetos Recentes
 📌 [**Portfolio Django**](https://portfolio-u63n.onrender.com)  
+
 📌 [**Projeto personal Finance**](https://github.com/SrKossatz/personal-finance-manager)
+
+📌 [**Projeto MinerSweeper**](https://github.com/SrKossatz/Minesweeper)
+
+
 
 ---
 
