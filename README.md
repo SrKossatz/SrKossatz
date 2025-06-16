@@ -39,6 +39,8 @@
 
 
 ### 🚀 **Projetos Recentes
+📌 [**WebSite Cprime Metalomecânica e Construções**](https://cprime.pt)  
+
 📌 [**Portfolio Django**](https://portfolio-u63n.onrender.com)  
 
 📌 [**Projeto personal Finance**](https://github.com/SrKossatz/personal-finance-manager)
